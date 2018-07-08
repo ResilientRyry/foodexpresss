@@ -1,0 +1,44 @@
+body{
+  margin:0 auto;
+  text-align: center;
+  background:beige;
+  color: blue;
+  font-size: 4vh;
+}
+input{
+  width: 45%;
+  height: 40px;
+  color: red;
+  font-size: 30px;
+}
+button{
+  width: 15%;
+  height: 45px;
+  border: 5px solid red;
+  border-radius: 45%;
+  font-size: 3vh;
+}
+
+li{
+  list-style: none;
+  font-size: 3vh;
+}
+i{
+  color: red;
+}
+.thankyou{
+display:none;
+}
+
+#foodImg{
+  display:block;
+  margin:0 auto;
+  width:40%;
+  border: 30px solid gold;
+  height: 50vh;
+}
+
+.meals,#country{
+  list-style: none;
+  padding-left: 0;
+}
